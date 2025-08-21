@@ -1,2 +1,3 @@
 # apnaschool-demo
-Learning for my firt github Repo.
+Learning for my first github Repo.
+Author Harish Vaishnav
